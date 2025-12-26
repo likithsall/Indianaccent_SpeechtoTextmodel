@@ -2,11 +2,6 @@ Indianaccent_Speechtotext
 
 Speech-to-Text (ASR) system optimized for Indian English Accents
 
-Overview
-
-Indianaccent_Speechtotext is a fine-tuned Automatic Speech Recognition (ASR) model built to accurately convert audio containing Indian English accents into text.
-Most global STT models perform poorly on Indian-accented speech due to pronunciation and phonetic variation — this project fills that gap.
-
 This repository contains:
 
 Dataset preprocessing
@@ -17,7 +12,7 @@ Inference pipeline for converting .wav to text
 
 Performance metrics and benchmarking
 
-🧠 Tech Stack
+Tech Stack
 Component	Technology
 Programming	Python
 ML Framework	PyTorch
